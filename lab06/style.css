@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #c6e8da;
+}
+
+h1, h2 {
+    color: #2a4d69;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
