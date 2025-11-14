@@ -1,0 +1,72 @@
+body{
+    background-color: #b18fff;
+    font-family: Arial, sans-serif;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+form input,
+form textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+p{
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    max-width: 140px;
+    max-height: 140px;
+    border: 3px solid black;
+    border-style: ridge ;
+    border-radius: 10px;
+}
+tr{
+    text-align: center;
+    padding: 3px;
+    max-width: 150px;
+    max-height: 150px;
+}
+td{
+    padding: 3px;
+    border: 1.5px solid black;
+    max-width: 150px;
+    max-height: 150px;
+}
+thead th{
+    background-color: black;
+    color: white;
+}
+.tier-s {
+    background-color: #ffd900c7;
+    color: #000;
+}
+.tier-a {
+    background-color: #66bb6ac4;
+    color: #000;
+}
+.tier-b {
+    background-color: #42a4f5be;
+    color: #000000;
+}
+.tier-c {
+    background-color: #ffb84dcd;
+    color: #000;
+}
+.tier-d {
+    background-color: #ff8965ce;
+    color: #000000;
+}
